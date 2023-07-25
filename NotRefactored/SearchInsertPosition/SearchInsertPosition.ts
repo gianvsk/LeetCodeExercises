@@ -1,4 +1,4 @@
-function searchInsert(nums: number[], target: number): number {
+/* function searchInsert(nums: number[], target: number): number {
 
     return nums.includes(target) ? 
             nums.indexOf(target) : ( nums.push(target),
@@ -6,4 +6,4 @@ function searchInsert(nums: number[], target: number): number {
             )
 
 };
-
+ */
